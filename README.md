@@ -2,3 +2,4 @@
 estado del proyecto: En construccion
 creamos etiquetas
 creamos los parrafos
+create lorem
